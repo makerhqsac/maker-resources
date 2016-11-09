@@ -17,7 +17,11 @@
 * [Sparkfun](https://www.sparkfun.com/) - Components store, great resources for learning
 * [Mouser](http://www.mouser.com/) - Huge components store
 * [DigiKey](http://digikey.com) - Also huge components store
-* [OSH Park](https://oshpark.com) - Low to medium volume PCB fab shop
+
+## Services
+
+* [OSH Park](https://oshpark.com) - Excellent quality, low to medium volume PCB fab
+* [Seeedstudio Fusion](https://www.seeedstudio.com/new-fusion-pcb.html) - Great quality, medium run PCB fab
 
 ## IOT
 
